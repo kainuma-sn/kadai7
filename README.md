@@ -15,7 +15,6 @@ sequenceDiagram
 [https://github.com/kainuma-sn/kadai7/pull/2#issue-1959403435](https://github.com/kainuma-sn/kadai7/pull/2)<br>
 <br><br>
 ## ２．オリジナルの実装<br>
-- バリデーションの実装<br>
-- クエリ文字列の受け取り<br>
-- クエリ文字の受け取り<br>
-- その他<br>
+- バリデーションの実装
+- クエリ文字列の受け取り
+- その他
