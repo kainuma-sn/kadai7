@@ -11,8 +11,7 @@ sequenceDiagram
 
 ```
 > ![Animation](https://github.com/kainuma-sn/kadai7/assets/145829664/812e6233-93a7-4047-95d7-53a00a1c0bed)<br>
-
-[https://github.com/kainuma-sn/kadai7/pull/2#issue-1959403435](https://github.com/kainuma-sn/kadai7/pull/2)<br>
+## [プルリクエスト][https://github.com/kainuma-sn/kadai7/pull/2#issue-1959403435](https://github.com/kainuma-sn/kadai7/pull/2)<br>
 <br><br>
 ## ２．オリジナルの実装<br>
 - バリデーションの実装
